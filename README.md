@@ -7,3 +7,4 @@ The project consists of several key components:
   Data: This folder contains the medical handbook data, which is used by the RAG agent to make its assessments.
   requirements.txt: This file lists all the necessary dependencies for the project, ensuring that you can easily set up the project in your own environment.
   
+For using this create a .env files and make appropriate changes.
